@@ -8,14 +8,14 @@
   text-align: center;
   z-index: 1;
 }
-@media screen and (max-width : 630px) {
+@media screen and (max-width: 630px) {
     .cover__title {
         max-width: 460px;
         font-size: 60px;
         line-height: 107%;
       }
 }
-@media screen and (max-width : 500px) {
+@media screen and (max-width: 500px) {
     .cover__title {
         width: 288px;
         font-size: 32px;

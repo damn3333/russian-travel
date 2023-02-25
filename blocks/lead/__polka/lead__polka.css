@@ -2,12 +2,12 @@
   margin: 0;
   padding-bottom: 92px;
 }
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
     .lead__polka {
         padding-bottom: 88px;
       }
 }
-@media screen and (max-width : 500px) {
+@media screen and (max-width: 500px) {
     .lead__polka {
         padding-bottom: 64px;
       }

@@ -4,25 +4,25 @@
   height: 460px;
   object-fit: cover;
 }
-@media screen and (max-width : 1230px) {
+@media screen and (max-width: 1230px) {
     .place__image {
         width: 440px;
         height: 440px;
       }
 }
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
     .place__image {
         width: 340px;
         height: 340px;
       }
 }
-@media screen and (max-width : 630px) {
+@media screen and (max-width: 630px) {
     .place__image {
         width: 200px;
         height: 200px;
       }
 }
-@media screen and (max-width : 500px) {
+@media screen and (max-width: 500px) {
     .place__image {
         width: 100%;
         height: 320px;

@@ -3,12 +3,12 @@
   margin: 0 auto;
   padding-bottom: 92px;
 }
-@media screen and (max-width : 1230px) {
+@media screen and (max-width: 1230px) {
     .cover {
         max-width: 100%;
       }
 }
-@media screen and (max-width : 500px) {
+@media screen and (max-width: 500px) {
     .cover {
         padding-bottom: 64px;
       }

@@ -1,13 +1,13 @@
 .place__title-space_off {
   display: none;
 }
-@media screen and (max-width : 900px) {
+@media screen and (max-width: 900px) {
     .place__title-space_off {
         display: block;
         padding: 0;
       }
 }
-@media screen and (max-width : 630px) {
+@media screen and (max-width: 630px) {
     .place__title-space_off {
         display: none;
       }

@@ -4,7 +4,7 @@
   height: 52px;
   background-size: cover;
 }
-@media screen and (max-width : 500px) {
+@media screen and (max-width: 500px) {
     .header__logo {
         width: 142px;
         height: 42px;
