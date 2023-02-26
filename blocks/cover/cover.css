@@ -8,6 +8,11 @@
         max-width: 100%;
       }
 }
+@media screen and (max-width: 900px) {
+    .cover {
+        padding-bottom: 88px;
+      }
+}
 @media screen and (max-width: 500px) {
     .cover {
         padding-bottom: 64px;
