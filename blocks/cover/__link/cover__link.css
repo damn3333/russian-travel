@@ -3,11 +3,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 100%;
-  position: relative;
-  z-index: 0;
   color: #FFFFFF;
   text-decoration: none;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  width: 100%;
   min-height: 740px;
 }
 @media screen and (max-width: 1230px) {
